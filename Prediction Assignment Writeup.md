@@ -1,7 +1,5 @@
 ####English is not my native language
 
-
-
 #Steps
 ##Sort by name
 
@@ -10,6 +8,8 @@
 ##Make a linear regression to predict each letter using the following criteria
 
 ###A:
+#### look at belt x,y,z should be close to none. 
+#### arm acceleration x,y,z should be positve on pronation.
 ###B: accel_arm_x: 
 #### very possitive value.
 ###C: accel_arm_z:
@@ -21,3 +21,4 @@
 #### accel_belt_z: negative value (-150~)
 
 ##make the prediction.
+
